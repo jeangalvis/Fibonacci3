@@ -1,0 +1,14 @@
+C:\Users\AdminAp-066\Documents\Fibonacci3\bin\Debug\net7.0\Fibonacci3.exe
+C:\Users\AdminAp-066\Documents\Fibonacci3\bin\Debug\net7.0\Fibonacci3.deps.json
+C:\Users\AdminAp-066\Documents\Fibonacci3\bin\Debug\net7.0\Fibonacci3.runtimeconfig.json
+C:\Users\AdminAp-066\Documents\Fibonacci3\bin\Debug\net7.0\Fibonacci3.dll
+C:\Users\AdminAp-066\Documents\Fibonacci3\bin\Debug\net7.0\Fibonacci3.pdb
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.AssemblyInfoInputs.cache
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.AssemblyInfo.cs
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.csproj.CoreCompileInputs.cache
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.dll
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\refint\Fibonacci3.dll
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.pdb
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\Fibonacci3.genruntimeconfig.cache
+C:\Users\AdminAp-066\Documents\Fibonacci3\obj\Debug\net7.0\ref\Fibonacci3.dll
